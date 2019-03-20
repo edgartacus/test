@@ -2,3 +2,6 @@ this is the first commit.
 Another line of code.. 
 
 test commit with git commit -m with multiple lines. with slash 
+
+git commit -m "line1
+line 2"
